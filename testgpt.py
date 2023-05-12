@@ -5,7 +5,7 @@ import json
 
 
 # API key from open AI
-openai.api_key = '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'
+openai.api_key = ''
 
 def show_my_itirenary():   
   #The inputs we are feeding to chat gpt will change when we have the htttp request
